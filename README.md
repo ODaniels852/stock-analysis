@@ -35,24 +35,24 @@ Prior to refactoring my code, it took 1.28 seconds to analysis results for 2017 
 Images of the times to run my analysis before and after refactoring are shown below:
 
 #### **BEFORE Code Refactor**
-#####_2017_
+
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/stock-analysis/raw/main/Resources/BEFORE_Refactor_2017_AnalysisTime.png">
  <img alt=" Shows time to run analysis on 2017 stock data before refactoring code."/>
 </picture>
-#####_2018_ 
+
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/stock-analysis/raw/main/Resources/BEFORE_Refactor_2018_AnalysisTime.png">
  <img alt=" Shows time to run analysis on 2018 stock data before refactoring code."/>
 </picture> 
 
 #### **AFTER Code Refactor**
-#####_2017_
+
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/stock-analysis/raw/main/Resources/AFTER_Refactor_2017_AnalysisTime.png">
  <img alt=" Shows time to run analysis on 2017 stock data after refactoring code."/>
 </picture>
-#####_2018_ 
+
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/stock-analysis/raw/main/Resources/AFTER_Refactor_2018_AnalysisTime.png">
  <img alt=" Shows time to run analysis on 2018 stock data after refactoring code."/>
